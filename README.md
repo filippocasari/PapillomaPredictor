@@ -1,4 +1,4 @@
-# Simple TensorFlow project
+# Papilloma Predictor
 
 First Usage of Tensorflow (Convolutional Net) to recognize Papilledema (3 target classes). 
 
